@@ -1,2 +1,2 @@
 # Energy-Fields-Theory
-An Energetical Fields Treatice from a Scientific Point of View
+A Scientific Treatise on Resonance Energetical Fields.
