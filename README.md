@@ -62,10 +62,18 @@
     
 <p> At the end of the upcoming journey, it is pretended to awake the enthusiasm to still walking on (and more in deep) in these novel areas of study, that also represents the better beat for the humankind, trying to find an environmental friendly energy management for the technology, of which is now fully dependent. </p>
 
-
-__Xiuhcoatl__ $\odot$
 <br><br/> 
 <br><br/>
+<br><br/>
+<br><br/> 
+<br><br/>
+__Xiuhcoatl__ \( \odot \)
+<br><br/> 
+<br><br/>
+<br><br/> 
+<br><br/>
+<br><br/>
+<br><br/> 
 <br><br/>
 
 
