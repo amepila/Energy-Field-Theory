@@ -63,9 +63,12 @@
 <p> At the end of the upcoming journey, it is pretended to awake the enthusiasm to still walking on (and more in deep) in these novel areas of study, that also represents the better beat for the humankind, trying to find an environmental friendly energy management for the technology, of which is now fully dependent. </p>
 
 <br><br/> 
-<br><br/>
-<br><br/>
-<h5> Xiuhcoatl \( \odot \) <h5/>
+<h5> Xiuhcoatl <h5/> 
+    <p> \( \odot \) </p>
+    <p> \begin{equation}\odot\end{equation} </p>
+    <p> \odot </p>
+    <p> $$\odot$$ </p>    $$\odot$$
+    
 <br><br/> 
 <br><br/>
 <br><br/> 
