@@ -64,11 +64,7 @@
 
 <br><br/> 
 <h5> Xiuhcoatl <h5/> 
-    <p> \( \odot \) </p>
-    <p> \begin{equation}\odot\end{equation} </p>
-    <p> \odot </p>
-    <p> $$\odot$$ </p>    $$\odot$$
-    
+- <img src="https://latex.codecogs.com/gif.latex?\odot " />
 <br><br/> 
 <br><br/>
 <br><br/> 
