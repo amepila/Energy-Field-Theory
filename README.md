@@ -41,21 +41,24 @@
 
 <p> To speculate why shouldn’t a neutron field just be a proton field that has no spin. If spin is the requirement for electromagnetism to interact then this would differentiate it from electrons fields and protons fields. It is possible that an electron field is simply an electromagnetic back eddy from a proton field. Combine the electron and proton energy field and perhaps you have a standing wave of electromagnetism with no spin. </p>
 
-<p> There appears to be a stance for clasic treatices on physics, that rejects the notion that gravity could be related to electromagnetism. The fact that the two theories are based on an inverse square law and propose an exchange of particles (photons or gravitons) doesn’t seem enough for the physicists to look for a connection, stuff that turns clear when looked in term of fields. </p> 
+<p> There appears to be a stance for clasic treatices on physics, that rejects the notion that gravity could be related to electromagnetism. The fact that the two theories are based on an inverse square law and propose an exchange of particles (photons or gravitons) doesn’t seem enough for the physicists to look for a connection, stuff that turns clear when it is looked in terms of fields. </p> 
 
-<p> If it is considered that photons field exitates forming a "mass" (no matter how small) then a graviton could be a photon, it is the means of transferring energy among fields, and therefore mass from one place to another. </p>
+<p> If it were considered that photons field exitates and forms a such form of "mass" (no matter how small) then a graviton could be looked as a photon, it is the means of transferring energy among fields, and therefore mass from one place to another. </p>
 
 <p> Energy exists in many different forms, nothing but all them manifestation of the very same Electromagnetic Radiation Fields. </p>
+<br><br/> 
+<br><br/>
+<br><br/>
 
 
 
-<h2 id="digital_control">Why a Digital Control Aproach for High-Frequency Switched-Mode Power Converters in the pursuit of Energy Management?</h2>
+<h3 id="digital_control">Why a Digital Control Aproach for High-Frequency Switched-Mode Power Converters in the pursuit of Energy Management?</h3>
 
 <p> Power Electronics represents the most feasible way to control the Energy for Human usage, going from tinny manifestations like nerve traveling information through an organic nervous system to thermonuclear reactors or even Stars and massive universe energy manifestations, all them electromagnetic phenomenon's that finally could be addressed from the power electronics point of view. </p> 
     
 <p> One of the most ambitious objectives with this work, is related with sensibilities readers on the energy management, from a scientific point of view and the role and responsibility the humankind has acquired as part of them technological evolution progression, always as a warning call to reinforce the nature preservation, over the false human empowerment or any other type of social frivolity. </p>
     
-<p> The study and considerations for taking advantage of the diverse resonance properties available in any system will be presented as a feasible application for going beyond the physical restriction that are normally observed in the original systems. </p>
+<p> The study and considerations for taking advantage of the diverse resonance properties available in any system will be presented as a feasible application for going beyond the physical restriction that are normally observed in the original system. </p>
     
 <p> At the end of the upcoming journey, it is pretended to awake the enthusiasm to still walking on (and more in deep) in these novel areas of study, that also represents the better beat for the humankind, trying to find an environmental friendly energy management for the technology, of which is now fully dependent. </p>
 
