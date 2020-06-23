@@ -47,7 +47,7 @@
 
 <p> Energy exists in many different forms, nothing but all them manifestation of the very same Electromagnetic Radiation Fields. </p>
 
-<p> __Xiuhcoatl__ </p>
+__Xiuhcoatl__
 <br><br/> 
 <br><br/>
 <br><br/>
