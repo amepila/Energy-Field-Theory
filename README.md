@@ -64,6 +64,8 @@
 
 <br><br/> 
 <h5> Xiuhcoatl [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/complex_variable/complex_variable.ipynb) <h5/> 
+    
+[<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/complex_variable/complex_variable.ipynb)
 
 <br><br/> 
 <br><br/>
