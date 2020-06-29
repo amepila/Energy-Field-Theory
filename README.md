@@ -63,9 +63,7 @@
 <p> At the end of the upcoming journey, it is pretended to awake the enthusiasm to still walking on (and more in deep) in these novel areas of study, that also represents the better beat for the humankind, trying to find an environmental friendly energy management for the technology, of which is now fully dependent. </p>
 
 <br><br/> 
-<h5> Xiuhcoatl [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/complex_variable/complex_variable.ipynb) <h5/> 
-    
-[<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/complex_variable/complex_variable.ipynb)
+__Xiuhcoatl [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/complex_variable/complex_variable.ipynb)
 
 <br><br/> 
 <br><br/>
