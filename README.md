@@ -95,8 +95,8 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 
 
 - __Generalities__  
-  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/Introduction/introduction.ipynb)
-  - [Electrical Energy and Power](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/Electrical_Energy_and_Power/Electrical_Energy_and_Power.ipynb)
+  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/introduction/introduction.ipynb)
+  - [Electrical Energy and Power](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/electrical_energy_and_power/electrical_energy_and_power.ipynb)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
 
 - __Mathematical Modeling and Simulation Methods in Energy Systems__
