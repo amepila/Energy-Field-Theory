@@ -96,7 +96,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 
 - __Generalities__  
   - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/introduction/introduction.ipynb)
-  - [Circuit Theory Deduction from The Electromagnetic Theory](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/Circuit_Theory_Deduction_from_The_Electromagnetic_Theory/Circuit_Theory_Deduction_from_The_Electromagnetic_Theory.ipynb) 
+  - [Circuit Theory Deduction from The Electromagnetic Theory](https://github.com/Xiuhcoatl-013/Energy-Fields-Theory/blob/master/notes/circuit_theory_deduction_from_the_electromagnetic_theory/circuit_theory_deduction_from_the_electromagnetic_theory.ipynb)
   - [Electrical Energy and Power](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/electrical_energy_and_power/electrical_energy_and_power.ipynb)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
 
