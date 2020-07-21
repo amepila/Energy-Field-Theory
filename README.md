@@ -102,7 +102,6 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/)
 
 - __Mathematical Modeling and Simulation Methods in Energy Systems__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/)
   - [Basic Concepts](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/)
   - [Basic Electrical Quantities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/)
   - [Power in an AC Circuit](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
@@ -128,7 +127,6 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   
 - __Elements of an Electric Power System__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Power Generation](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Power Transmission](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Utilization of Electric Energy](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
@@ -137,7 +135,6 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   
 - __Switching Converters [DC-DC Converter]__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Power_Switches](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [MOSFET and IGBT Drive Circuits](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Buck Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
@@ -156,20 +153,17 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   
 - __Inverters [DC-AC Converter]__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
 
 - __Pulsed Power__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Marx Generator](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
 
 - __Resonant Power Convertion__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
@@ -179,7 +173,6 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
 
 - __Electromanetic-Energy Control [Digital Control of High-Frequency Switched-Mode Power Converters]__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Control Theory for Power Conversion](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
@@ -187,7 +180,6 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 
 
 - __Aplications__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Battery Chargers and Charging Methods](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [FOC for Novel Synchronous Inductive Electromagnetic Machines](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [Power Line Comuication](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
