@@ -96,7 +96,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 
 - __Generalities__ 
   - [Field (Physics)](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/field/field.ipynb)
-  - [Electromagnetic Energy Facts, and a Qualitative View](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/electromagnetic_energy_facts/electromagnetic_energy_facts.ipynb)
+  - [Electromagnetic Energy Facts, and a Qualitative View](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electromagnetic_energy_facts/electromagnetic_energy_facts.ipynb)
   - [Circuit Theory Deduction from The Electromagnetic Theory](https://github.com/Xiuhcoatl-013/Energy-Fields-Theory/blob/master/notes/circuit_theory_deduction_from_the_electromagnetic_theory/circuit_theory_deduction_from_the_electromagnetic_theory.ipynb)
   - [Electrical Energy and Power](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/electrical_energy_and_power/electrical_energy_and_power.ipynb)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
