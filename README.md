@@ -173,7 +173,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
 
 - __Electromanetic-Energy Control [Digital Control of High-Frequency Switched-Mode Power Converters]__
-  - [Control Theory for Power Conversion](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
+  - [Digitally Controlled Switched-Mode Converters](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/notes/digitally_controlled_switched-mode_converters/digitally_controlled_switched-mode_converters.ipynb)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
   - [](https://github.com/Xiuhcoatl-013/Electromanetic-Energy/blob/master/)
 
