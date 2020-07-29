@@ -180,7 +180,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 
 - __Aplications__
   - [Battery Chargers and Charging Methods](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [FOC for Novel Synchronous Inductive Electromagnetic Machines](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/foc_for_novel_synchronous_inductive_electromagnetic_machines/foc_for_novel_synchronous_inductive_electromagnetic_machines.ipynb) (Under construction...)
+  - [FOC for Novel Synchronous Inductive Electromagnetic Machines](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/foc_for_novel_synchronous_inductive_electromagnetic_machines/foc_for_novel_synchronous_inductive_electromagnetic_machines.ipynb)
   - __PWM and RF Phenomena__
     - [Voltage reflections ](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
     - [Bearing Currents](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...PWM Challenges Part 2) 
