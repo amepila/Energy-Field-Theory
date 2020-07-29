@@ -180,7 +180,10 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 
 - __Aplications__
   - [Battery Chargers and Charging Methods](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [FOC for Novel Synchronous Inductive Electromagnetic Machines](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+  - [FOC for Novel Synchronous Inductive Electromagnetic Machines](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/FOC_for_Novel_Synchronous_Inductive_Electromagnetic_Machines/FOC_for_Novel_Synchronous_Inductive_Electromagnetic_Machines.ipynb) (Under construction...)
+  - __PWM and RF Phenomena__
+    - [Voltage reflections ](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+    - [Bearing Currents](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...PWM Challenges Part 2) 
   - [Power Line Comuication](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
   - [RF](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
   - [PCB_Thermal_Design_Considerations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
