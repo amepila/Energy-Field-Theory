@@ -4,7 +4,7 @@
 
 
 
-<img src="w7x_with_coils.jpg" width="500px" height="auto">
+<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/w7x_with_coils.jpg" width="500px" height="auto">
 <br><br/>
 <br><br/>
 <br><br/>
@@ -102,7 +102,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - [Electrical Energy and Power](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_energy_and_power/electrical_energy_and_power.ipynb) 
     [[P]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/portfolios/electrical_energy_and_power_[portfolios]/electrical_energy_and_power_[portfolios].ipynb)
   - [Electrical Quantities and Power Computations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_quantities_and_power_computations/electrical_quantities_and_power_computations.ipynb)
-    [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/portfolios/electrical_quantities_and_power_computations_[portfolios]/electrical_quantities_and_power_computations_[portfolios].ipynb)
+    [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/portfolios/electrical_quantities_and_power_computations_[portfolios]/electrical_quantities_and_power_computations_[portfolios].ipynb)
   - [Electromagnetic Transients Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
   - [State Estimation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
   - [EMI and EMC](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...) 
