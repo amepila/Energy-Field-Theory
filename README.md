@@ -198,7 +198,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
   - __E__
     - [State-Space Averaging [Flow Chart]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
   - __F__
-    - [Fourier Series for Some Common Waveforms](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+    - [Fourier Series for Some Common Waveforms](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/fourier_series_for_common_waveforms/fourier_series_for_common_waveforms.ipynb)
   - __G__
     - [Solving the Harmonic Elimination Equations in Multilevel Converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
   - __H__
