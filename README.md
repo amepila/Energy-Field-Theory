@@ -95,122 +95,122 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 
 
 - __Generalities, Mathematical Modeling and Simulation Methods in Energy Systems__ 
-  - [Field (Physics)](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/field_physics/field_physics.ipynb)
-  - [Electromagnetic Energy Facts, and a Qualitative View](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electromagnetic_energy_facts/electromagnetic_energy_facts.ipynb)
-  - [Electromagnetic Theory](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-    - [Electric Fields Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-    - [Magnetic Fields Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)    
-  - [Circuit Theory Deduction from The Electromagnetic Theory](https://github.com/Xiuhcoatl-013/Energy-Fields-Theory/blob/master/notes/circuit_theory_deduction_from_the_electromagnetic_theory/circuit_theory_deduction_from_the_electromagnetic_theory.ipynb)
-  - [Non Conservative_Fields [In Circuit]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/non-conservative_fields/non-conservative_fields.ipynb)
-       [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/non-conservative_fields_[portfolios]/non-conservative_fields_[portfolios].ipynb)
-  - [Electrical Energy and Power](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_energy_and_power/electrical_energy_and_power.ipynb) 
-       [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/electrical_energy_and_power_[portfolios]/electrical_energy_and_power_[portfolios].ipynb)
-  - [Electrical Quantities and Power Computations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_quantities_and_power_computations/electrical_quantities_and_power_computations.ipynb)
-       [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/electrical_quantities_and_power_computations_[portfolios]/electrical_quantities_and_power_computations_[portfolios].ipynb)
-  - [Electromagnetic Transients Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [State Estimation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [EMI and EMC](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...) 
-  - [Thermal Model](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Thermal Issues](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)  
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Field (Physics)](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/field_physics/field_physics.ipynb)
+   - [Electromagnetic Energy Facts, and a Qualitative View](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electromagnetic_energy_facts/electromagnetic_energy_facts.ipynb)
+   - [Electromagnetic Theory](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Electric Fields Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Magnetic Fields Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)    
+   - [Circuit Theory Deduction from The Electromagnetic Theory](https://github.com/Xiuhcoatl-013/Energy-Fields-Theory/blob/master/notes/circuit_theory_deduction_from_the_electromagnetic_theory/circuit_theory_deduction_from_the_electromagnetic_theory.ipynb)
+      - [Non Conservative_Fields [In Circuit]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/non-conservative_fields/non-conservative_fields.ipynb)
+         [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/non-conservative_fields_[portfolios]/non-conservative_fields_[portfolios].ipynb)
+   - [Electrical Energy and Power](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_energy_and_power/electrical_energy_and_power.ipynb) 
+      [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/electrical_energy_and_power_[portfolios]/electrical_energy_and_power_[portfolios].ipynb)
+   - [Electrical Quantities and Power Computations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_quantities_and_power_computations/electrical_quantities_and_power_computations.ipynb)
+      [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/electrical_quantities_and_power_computations_[portfolios]/electrical_quantities_and_power_computations_[portfolios].ipynb)
+   - [Electromagnetic Transients Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [State Estimation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [EMI and EMC](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...) 
+   - [Thermal Model](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Thermal Issues](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)  
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
   
 - __Elements of an Electric Power System__
-  - [Utilization of Electric Energy](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Power System Load Modeling](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Excitation System Modeling](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Power Generation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Generator Modeling](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Power Transmission](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Transmission Network Modeling](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Power Flow Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Utilization of Electric Energy](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Power System Load Modeling](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Excitation System Modeling](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Power Generation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Generator Modeling](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Power Transmission](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Transmission Network Modeling](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Power Flow Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
   
 - __Switching Converters [DC-DC Converter]__
-  - [Power_Electronic Switches](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/power_electronic_switches/power_electronic_switches.ipynb)
-  - [MOSFET and IGBT Drive Circuits](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/mosfet_and_igbt_drive_circuits/mosfet_and_igbt_drive_circuits.ipynb)
-       [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/mosfet_and_igbt_drive_circuits_[portfolios]/mosfet_and_igbt_drive_circuits_[portfolios].ipynb)
-  - [Buck Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Buck Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Boost Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Boost Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Buck-Boost Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Buck-Boost Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Flyback Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Flyback Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Forward Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Forward Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [switched-capacitor DC-DC converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Power_Electronic Switches](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/power_electronic_switches/power_electronic_switches.ipynb)
+   - [MOSFET and IGBT Drive Circuits](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/mosfet_and_igbt_drive_circuits/mosfet_and_igbt_drive_circuits.ipynb)
+      [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/mosfet_and_igbt_drive_circuits_[portfolios]/mosfet_and_igbt_drive_circuits_[portfolios].ipynb)
+   - [Buck Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Buck Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Boost Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Boost Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Buck-Boost Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Buck-Boost Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Flyback Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Flyback Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Forward Converter [Continuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Forward Converter [Discontinuous Current Mode]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [switched-capacitor DC-DC converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
   
 - __Inverters [DC-AC Converter] (Under construction...)__
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
 
 - __Pulsed Power__
-  - [Marx Generator](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Marx Generator](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
 
 - __Resonant Power Convertion__
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [Magnetic_Resonance](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Magnetic_Resonance](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
 
 - __Electromanetic-Energy Control [Digital Control of High-Frequency Switched-Mode Power Converters]__
-  - [Digitally Controlled Switched-Mode Converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/digitally_controlled_switched-mode_converters/digitally_controlled_switched-mode_converters.ipynb)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Digitally Controlled Switched-Mode Converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/digitally_controlled_switched-mode_converters/digitally_controlled_switched-mode_converters.ipynb)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
 
 
 
 - __Aplications__
-  - [Battery Chargers and Charging Methods](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [FOC for Novel Synchronous Inductive Electromagnetic Machines](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/foc_for_novel_synchronous_inductive_electromagnetic_machines/foc_for_novel_synchronous_inductive_electromagnetic_machines.ipynb)
-  - __PWM and RF Phenomena__
-    - [Voltage reflections ](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-    - [Bearing Currents](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...PWM Challenges Part 2) 
-  - [Power Line Comuication](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [RF](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [PCB_Thermal_Design_Considerations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [Correlation Power Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Battery Chargers and Charging Methods](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [FOC for Novel Synchronous Inductive Electromagnetic Machines](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/foc_for_novel_synchronous_inductive_electromagnetic_machines/foc_for_novel_synchronous_inductive_electromagnetic_machines.ipynb)
+   - __PWM and RF Phenomena__
+      - [Voltage reflections ](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Bearing Currents](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...PWM Challenges Part 2) 
+      - [Power Line Comuication](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [RF](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [PCB_Thermal_Design_Considerations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Correlation Power Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
      
 
 
 - __Apendix__
-  - __A__
-    - [Commonly used Power and Converter Equations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/commonly_used_power_and_converter_equations/commonly_used_power_and_converter_equations.ipynb)
-  - __B__  
-    - [Survey of Second-Order Resonant Circuits](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - __C__
-    - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - __D__
-    - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - __E__
-    - [State-Space Averaging [Flow Chart]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - __F__
-    - [Fourier Series for Some Common Waveforms](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/fourier_series_for_common_waveforms/fourier_series_for_common_waveforms.ipynb)
-  - __G__
-    - [Solving the Harmonic Elimination Equations in Multilevel Converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-  - __H__
-    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - __I__
-    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - __J__
-    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-  - __K__
-    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - __A__
+      - [Commonly used Power and Converter Equations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/commonly_used_power_and_converter_equations/commonly_used_power_and_converter_equations.ipynb)
+   - __B__  
+      - [Survey of Second-Order Resonant Circuits](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - __C__
+      - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - __D__
+      - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - __E__
+      - [State-Space Averaging [Flow Chart]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - __F__
+      - [Fourier Series for Some Common Waveforms](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/fourier_series_for_common_waveforms/fourier_series_for_common_waveforms.ipynb)
+   - __G__
+      - [Solving the Harmonic Elimination Equations in Multilevel Converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - __H__
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - __I__
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - __J__
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - __K__
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
