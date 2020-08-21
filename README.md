@@ -97,8 +97,12 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 - __Generalities, Mathematical Modeling and Simulation Methods in Energy Systems__ 
   - [Field (Physics)](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/field_physics/field_physics.ipynb)
   - [Electromagnetic Energy Facts, and a Qualitative View](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electromagnetic_energy_facts/electromagnetic_energy_facts.ipynb)
+  - [Electric Theory](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+    - [Electric Fields Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+    - [Magnetic Fields Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)    
   - [Circuit Theory Deduction from The Electromagnetic Theory](https://github.com/Xiuhcoatl-013/Energy-Fields-Theory/blob/master/notes/circuit_theory_deduction_from_the_electromagnetic_theory/circuit_theory_deduction_from_the_electromagnetic_theory.ipynb)
-  - [Magnetic Fields Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+  - [Non Conservative_Fields [In Circuit]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/non-conservative_fields/non-conservative_fields.ipynb)
+       [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/non-conservative_fields_[portfolios]/non-conservative_fields_[portfolios].ipynb)
   - [Electrical Energy and Power](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_energy_and_power/electrical_energy_and_power.ipynb) 
        [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/electrical_energy_and_power_[portfolios]/electrical_energy_and_power_[portfolios].ipynb)
   - [Electrical Quantities and Power Computations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_quantities_and_power_computations/electrical_quantities_and_power_computations.ipynb)
