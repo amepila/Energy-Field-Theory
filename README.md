@@ -78,9 +78,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
 <h2 id="prerequisites">Prerequisites</h2>
 <p>Aassuming the reader has completed undergraduate courses in:</p>
 <ul>
-<li>Engineering Math's: Linear Algebra, Differential Equations, Field and Vector Calculus, Complex Variable.</li>
-<li>Electromagnetic Theory: Electrical Fields, Magnetic Fields, Electromagnetic Waves</li>
-<li>Electronics Engineering Courses: Signal Processing, Control Theory, Digital Electronics, Embedded Systems, RF Theory</li>
+<li><strong>Engineering Math's:</strong> Linear Algebra, Field and Vector Calculus, Complex Variable, Differential Equations.</li>
+<li><strong>Electromagnetic Theory:</strong> Electrical Fields, Magnetic Fields, Electromagnetic Waves.</li>
+<li><strong>Electronics Engineering Courses:</strong> Computing, Signal Processing, Circuit Theory, Analog Electronics, Digital Electronics, Embedded Systems, Control Theory, RF Theory.</li>
 </ul>
 <br><br/>
 <br><br/>
