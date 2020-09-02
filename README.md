@@ -69,7 +69,7 @@
 
 <br><br/> 
 __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/complex_variable/complex_variable.ipynb)
-              [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/crecent_moon.png" width="700px" height="auto"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/complex_variable/complex_variable.ipynb)
+              [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/crecent_moon.jpg" width="50px" height="auto"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/complex_variable/complex_variable.ipynb)
 <br><br/> 
 <br><br/>
 <br><br/> 
