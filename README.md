@@ -20,6 +20,7 @@
 
 <p> Instead, think in terms of fields. </p> 
 
+<br><br/>
 <img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/the_subtle_energy.jpg" width="300px" height="auto">
 <div style="text-align: right"> Figure. The Subtle Energy. Waves waving in peaks is what physicists identify as the particle. </div>
 <br><br/>
