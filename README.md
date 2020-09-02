@@ -16,8 +16,9 @@
 
 <p> That’s one way of looking at things. But it’s not really the way things are. And if physicists really want other people to appreciate the discovery of the Higgs boson (and other stuff), it’s time to tell them the rest of the story. </p> 
 
-<p> “To understand what is going on, it is actually needed to give up a (lot) little bit on the notion of particles” 
-    Instead, think in terms of <strong>fields</strong>. </p> 
+<p style="font-style: italic;"> "To understand what is going on, it is actually needed to give up a little bit (a lot) on the notion of particles” </p> 
+
+<p>  Instead, think in terms of <strong>fields</strong>. </p> 
 
 <br><br/>
 <img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/the_subtle_energy.jpg" width="300px" height="auto">
