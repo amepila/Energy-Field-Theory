@@ -20,6 +20,9 @@
 
 <p> Instead, think in terms of fields. </p> 
 
+<img style="float: right; margin: 0px 0px 15px 15px;"src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/the_subtle_energy.jpg" width="200px" height="auto">
+<div style="text-align: right"> Figure. The Subtle Energy. Waves waving in peaks is what physicists identify as the particle. </div>
+
 <p> Anyone is already familiar with some fields. When holding two magnets close together, their attraction or repulsion could be feeled before they even touch, an interaction between two magnetic fields. Likewise, anyone know that when jump in the air, eventually going to come back down. That’s because of living in Earth’s gravitational field. </p> 
     
 <p> Every particle is actually a field. The universe is full of fields, and what is thinked of as particles are just excitations of those fields, like waves in an ocean. An electron, for example, is just an excitation of an electron field. </p> 
