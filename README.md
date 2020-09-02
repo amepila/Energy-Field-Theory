@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/w7x_with_coils.jpg" width="500px" height="auto">
+<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/w7x_with_coils.jpg" width="700px" height="auto">
 <br><br/>
 <br><br/>
 <br><br/>
