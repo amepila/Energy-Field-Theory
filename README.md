@@ -22,7 +22,7 @@
 
 <br><br/>
 <img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/the_subtle_energy.jpg" width="300px" height="auto">
-<p><strong>Figure. The Subtle Energy.</strong> Waves waving in peaks is what physicists identify as the particle.</p>
+<p><strong>Figure - The Subtle Energy.</strong> Waves waving in peaks is what physicists identify as the particle.</p>
 <br><br/>
 
 <p> Anyone is already familiar with some fields. When holding two magnets close together, their attraction or repulsion could be feeled before they even touch, an interaction between two magnetic fields. Likewise, anyone know that when jump in the air, eventually going to come back down. That’s because of living in Earth’s gravitational field. </p> 
