@@ -68,7 +68,7 @@
 <p> At the end of the upcoming journey, it is pretended to awake the enthusiasm to still walking on (and more in deep) in these novel areas of study, that also represents the better beat for the humankind, trying to find an environmental friendly energy management for the technology, of which is now fully dependent. </p>
 
 <br><br/> 
-[<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/crecent_moon_art.jpg" width="150px" height="auto"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/complex_variable/complex_variable.ipynb)
+[<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/images/crecent_moon_art.jpg" width="50px" height="auto"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/complex_variable/complex_variable.ipynb)
 <br>
 __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/complex_variable/complex_variable.ipynb)
               
