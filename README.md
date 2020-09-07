@@ -143,7 +143,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - [MOSFET and IGBT Drive Circuits](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/mosfet_and_igbt_drive_circuits/mosfet_and_igbt_drive_circuits.ipynb)
       [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/mosfet_and_igbt_drive_circuits_[portfolios]/mosfet_and_igbt_drive_circuits_[portfolios].ipynb)
    - __DC-DC Converters__
-      - [DC-DC Converters Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters_generalities/dc_dc_converters_generalities.ipynb)
+      - [DC-DC Converters Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/dc_dc_converters_generalities/dc_dc_converters_generalities.ipynb)
       - [Buck Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Buck-Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
