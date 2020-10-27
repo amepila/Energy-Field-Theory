@@ -145,8 +145,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __DC-DC Converters__
       - [DC-DC Converters Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/dc_dc_converters_generalities/dc_dc_converters_generalities.ipynb)
       - [Buck Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/buck_converter/buck_converter.ipynb)
-        [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>]()
+        [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/buck_converter_%5Bportfolios%5D/buck_converter_%5Bportfolios%5D.ipynb)
       - [Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+        [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/buck_converter_%5Bportfolios%5D/buck_converter_%5Bportfolios%5D.ipynb)
       - [Buck-Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Flyback Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Forward Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
@@ -208,7 +209,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __D__
       - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __E__
-      - [State-Space Averaging [Flow Chart]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [State-Space Averaging [Flow Chart]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/state-space_averaging/state-space_averaging.ipynb) (Under construction...)
    - __F__
       - [Fourier Series for Some Common Waveforms](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/fourier_series_for_common_waveforms/fourier_series_for_common_waveforms.ipynb)
    - __G__
