@@ -147,7 +147,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
       - [Buck Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/buck_converter/buck_converter.ipynb)
         [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/buck_converter_%5Bportfolios%5D/buck_converter_%5Bportfolios%5D.ipynb)
       - [Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-        [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/buck_converter_%5Bportfolios%5D/buck_converter_%5Bportfolios%5D.ipynb)
+        [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/boost_converter_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D/boost_converter_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D.ipynb)
       - [Buck-Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Flyback Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Forward Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
@@ -156,7 +156,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
   
-- __Inverters [DC-AC Converter] (Under construction...)__
+- [__Inverters [DC-AC Converter] (Under construction...)__](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+ [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/inverters%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D/inverters_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D.ipynb)
+
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
@@ -205,7 +207,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __B__  
       - [Survey of Second-Order Resonant Circuits](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __C__
-      - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/tree/master/resourses/apendix/pspice_simulation%20(UNDER%20CONSTRUCTION)) (BETA...)
    - __D__
       - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __E__
