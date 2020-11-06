@@ -207,9 +207,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __B__  
       - [Survey of Second-Order Resonant Circuits](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __C__
-      - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/tree/master/resourses/apendix/pspice_simulation%20(UNDER%20CONSTRUCTION)) (BETA...)
+      - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __D__
-      - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __E__
       - [State-Space Averaging](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/state-space_averaging/state-space_averaging.ipynb)
    - __F__
@@ -224,3 +224,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
       - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __K__
       - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - __L__
+   - __M__
+   - __N__
+   - __O__
+   - __P__
+      - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/tree/master/resourses/apendix/pspice_simulation%20(UNDER%20CONSTRUCTION)) (BETA...)
