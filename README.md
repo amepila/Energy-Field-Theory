@@ -157,7 +157,8 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
   
 - [__Inverters [DC-AC Converter] (Under construction...)__](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
- [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/inverters%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D/inverters_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D.ipynb)
+ [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/inverters_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D/inverters_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D.ipynb)
+ [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/lab_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/labs/PWM_H-Bridge_%5Blab%5D/Controlling_DC_Brush_Motors_with_H-bridge_Driver_ICs.ipynb)
 
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
