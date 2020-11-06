@@ -146,7 +146,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
       - [DC-DC Converters Generalities](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/dc_dc_converters_generalities/dc_dc_converters_generalities.ipynb)
       - [Buck Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/buck_converter/buck_converter.ipynb)
         [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/buck_converter_%5Bportfolios%5D/buck_converter_%5Bportfolios%5D.ipynb)
-      - [Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/boost_converter/Boost_Converter_%20%5BDisontinuous_Current_Mode%5D.ipynb) (BETA...)
         [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/boost_converter_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D/boost_converter_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D.ipynb)
       - [Buck-Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Flyback Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
