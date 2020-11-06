@@ -225,8 +225,12 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __K__
       - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __L__
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __M__
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __N__
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __O__
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __P__
       - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/tree/master/resourses/apendix/pspice_simulation%20(UNDER%20CONSTRUCTION)) (BETA...)
