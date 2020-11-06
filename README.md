@@ -209,7 +209,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __C__
       - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __D__
-      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __E__
       - [State-Space Averaging](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/state-space_averaging/state-space_averaging.ipynb)
    - __F__
