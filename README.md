@@ -149,9 +149,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
       - [Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/boost_converter/Boost_Converter_%20%5BDisontinuous_Current_Mode%5D.ipynb) (BETA...)
         [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/boost_converter_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D/boost_converter_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D.ipynb)
       - [Buck-Boost Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-      - [Flyback Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Flyback Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/flyback_converter/Flyback_Converter.ipynb) (BETA...)
       - [Forward Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-      - [switched-capacitor DC-DC converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Switched-Capacitor DC-DC Converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/capacitive_converters/capacitive_converters.ipynb) (BETA...)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
@@ -171,7 +171,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
 
 - __Resonant Power Convertion__
-   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Resonant Power Convertion](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/resonant_power_convertion/Resonant_Power_Convertion.ipynb)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [Magnetic_Resonance](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
