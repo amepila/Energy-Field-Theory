@@ -122,7 +122,8 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
   
 - __Elements of an Electric Power System__
-   - [Electromagnetic Energy Facts, and a Qualitative View](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electromagnetic_energy_facts/electromagnetic_energy_facts.ipynb)
+   - [Electromagnetic Energy Facts, and a Qualitative View](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electromagnetic_energy_facts_qualitative_view/electromagnetic_energy_facts_qualitative_view.ipynb)
+      - [Concept Poster - AC vs DC](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electromagnetic_energy_facts_qualitative_view/references/Concept%20Poster%20-%20AC%20vs%20DC.pdf)
    - [Electrical Quantities and Power Computations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/electrical_quantities_and_power_computations/electrical_quantities_and_power_computations.ipynb)
      [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/electrical_quantities_and_power_computations_[portfolios]/electrical_quantities_and_power_computations_[portfolios].ipynb)
    - [Utilization of Electric Energy](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
@@ -152,9 +153,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
       - [Flyback Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/flyback_converter/Flyback_Converter.ipynb) (BETA...)
       - [Forward Converter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Switched-Capacitor DC-DC Converters](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/capacitive_converters/capacitive_converters.ipynb) (BETA...)
-   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
-   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+      - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+      - [Power Topologies Chart](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/references/Power%20Topologies%20Chart%20-%20TI.pdf)
   
 - [__Inverters [DC-AC Converter] (Under construction...)__](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
  [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/inverters_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D/inverters_%5Bportfolios%5D%5BUNDER%20CONSTRUCTION%5D.ipynb)
